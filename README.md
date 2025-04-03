@@ -1,8 +1,8 @@
 ## G’day 👋
 
-I am a software engineer with a love for problem-solving and building clean and efficient solutions. I love learning new technologies and collaborating with others to solve meaningful problems.
+I am a software engineer from _Down Under_ with a passion for problem-solving and building clean and efficient solutions. I love learning new technologies and collaborating with others to solve meaningful problems.
 
-Tech Stack
+__Tech Stack__:
 - **Languages**: Java, Python, JavaScript, TypeScript, Golang, Shell
 - **Libraries/Frameworks**: Java/Jakarta EE, Spring, Hibernate, React,jQuery, Ant Design, Material UI
 - **APIs & Integration**: SOAP and RESTful services, OAuth/OIDC, Cognito, RedHat SSO/Keycloak, Okta
