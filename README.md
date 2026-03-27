@@ -11,3 +11,4 @@ __Tech Stack__:
 - **Databases**: MariaDB, MySQL, PostgreSQL, SQLite, HSQL
 - **Systems and Servers**: CentOS/RHEL/AlmaLinux, Amazon Linux, Debian/Ubuntu, JBoss/WildFly/RH EAP, Apache HTTP, Nginx, Caddy, OpenLDAP.
 
+___2026-03-28___: Since GH [announced on the 25 March, 2026](https://github.blog/changelog/2026-03-25-updates-to-our-privacy-statement-and-terms-of-service-how-we-use-your-data/) they will use my data for AI training, I have decided to not only turn off that feature but also move my Git repositores (for starter, private ones) over to [my GitLab](https://gitlab.com/alextrn) or other Git providers. The public repositories will stay merely for reference purpose and might be relocated later.
